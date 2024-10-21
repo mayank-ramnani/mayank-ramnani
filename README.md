@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mayank
 
 [![LinkedIn](https://img.shields.io/badge/-mayank--ramnani-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-ramnani/)](https://www.linkedin.com/in/mayank-ramnani/)
-[![Twitter](https://img.shields.io/badge/-exec--mayank-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/exec-mayank)](https://www.twitter.com/exec-mayank)
+[![Twitter](https://img.shields.io/badge/-exec--mayank-blue?style=plastic-square&logo=x&logoColor=white&link=https://www.twitter.com/exec-mayank)](https://www.twitter.com/exec-mayank)
 
 <!--
 **mayank-ramnani/mayank-ramnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
