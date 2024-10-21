@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-mayank--ramnani-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-ramnani/)](https://www.linkedin.com/in/mayank-ramnani/)
 [![Twitter](https://img.shields.io/badge/-exec--mayank-blue?style=plastic-square&logo=x&logoColor=white&link=https://www.twitter.com/exec-mayank)](https://www.twitter.com/exec-mayank)
-[![Website](https://img.shields.io/badge/-personal--website--blue?logo=gnome-terminal&logoColor=white&link=https://www.mayankramnani.com/)](https://www.mayankramnani.com/)
+[![Website](https://img.shields.io/badge/-personal--website--blue?style=plastic-square&logo=gnome-terminal&logoColor=white&link=https://www.mayankramnani.com/)](https://www.mayankramnani.com/)
 
 <!--
 **mayank-ramnani/mayank-ramnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
