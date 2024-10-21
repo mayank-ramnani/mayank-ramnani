@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hi there 👋 I'm Mayank
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/mayank-ramnani/))
+
 
 <!--
 **mayank-ramnani/mayank-ramnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
