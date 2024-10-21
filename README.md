@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mayank
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mayank-ramnani/)
+[![Linkedin](https://img.shields.io/badge/-mayank-ramnani-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-ramnani/)](https://www.linkedin.com/in/mayank-ramnani/)
 
 
 <!--
