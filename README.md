@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mayank
 
-[![LinkedIn](https://img.shields.io/badge/-mayank--ramnani-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-ramnani/)](https://www.linkedin.com/in/mayank-ramnani/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Mayank%20Ramnani-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mayank-ramnani/)
 [![Twitter](https://img.shields.io/badge/-exec--mayank-blue?style=plastic-square&logo=x&logoColor=white&link=https://www.twitter.com/exec-mayank)](https://www.twitter.com/exec-mayank)
 [![Website](https://img.shields.io/badge/personal--website-blue?style=plastic-square&logo=gnome-terminal&logoColor=white&link=https://www.mayankramnani.com/)](https://www.mayankramnani.com/)
 
